@@ -2,7 +2,7 @@
 
 Designed at [Wkshps](https://wwww.wkshps.com/) for [John Michael Kohler Art Center](https://www.jmkac.org/) (2020)
 
-![Preview](sheboygan.png)
+![Preview](Sheboygan.png)
 
 -----------------------------------------------------------
 
